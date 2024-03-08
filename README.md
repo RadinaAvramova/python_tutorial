@@ -1,1 +1,2 @@
-# Python-Slot-Machine
+# python_tutorial
+python tutorial
